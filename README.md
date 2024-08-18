@@ -59,13 +59,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <p>Bog/Col.</p>
     <img src="https://xatimg.com/image/3AEtdfo73W61.png" alt="boy" class="w3-image" width="992" height="1108">
   </header>
-
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
-    <a href="https://xat.com/trade"><h2 class="w3-text-light-grey">Home | Xat Trade</h2></a>
-    
-    <p>
-    </p>
+    <a href="https://xat.com/trade"><h2 class="w3-text-light-grey">Home | Xat Trade</h2></a> 
   
   </div>
   
