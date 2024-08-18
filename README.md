@@ -62,7 +62,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
-    <h2 href="xat.com/trade" class="w3-text-light-grey">Home: xat.com/trade</h2>
+    <h2 class="w3-text-light-grey"><a href="#"Home | Xat trade</a></h2>
     
     <p>
     </p>
