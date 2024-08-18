@@ -63,9 +63,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <a href="https://xat.com/trade"><h2 class="w3-text-light-grey">Home | Xat Trade</h2></a> 
   
-  </div>
-  
-    <!-- Footer -->
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
     <i class="fa fa-facebook-official w3-hover-opacity"></i>
     <i class="fa fa-instagram w3-hover-opacity"></i>
@@ -76,6 +73,11 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <p class="w3-medium">Powered by <a href="https://xat.me/Jhon" target="_blank" class="w3-hover-text-green">Jhon</a></p>
   <!-- End footer -->
   </footer>
+
+  
+  </div>
+  
+    <!-- Footer -->
 
 <!-- END PAGE CONTENT -->
 </div>
