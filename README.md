@@ -61,7 +61,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   </header>
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
-    <a href="https://xat.com/trade"><h2 class="w3-text-light-grey">Home | Xat Trade</h2></a> 
+    <a href="https://xat.com/trade"><h2 class="w3-text-light-grey"><img src="https://xatimg.com/image/0ZpNSy6ZxGYF.png" style="width:100%"></h2></a> 
   
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
     <i class="fa fa-facebook-official w3-hover-opacity"></i>
