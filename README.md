@@ -35,7 +35,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <i class="fa fa-eye w3-xxlarge"></i>
     <p>PHOTOS</p>
   </a>
-  <a href="https://forum.xat.com/profile/41787/" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+  <a href="https://forum.xat.com/profile/41787/" target="_blank" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-envelope w3-xxlarge"></i>
     <p>CONTACT</p>
   </a>
@@ -61,7 +61,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   </header>
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
-    <a href="https://xat.com/trade"><h2 class="w3-text-light-grey"><img src="https://xatimg.com/image/Bkm9swXOdBZn.png" style="width:25%"></h2></a> 
+    <a href="https://xat.com/trade" target="_blank"><h2 class="w3-text-light-grey"><img src="https://xatimg.com/image/Bkm9swXOdBZn.png" style="width:25%"></h2></a> 
   
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
     <i class="fa fa-facebook-official w3-hover-opacity"></i>
