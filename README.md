@@ -56,12 +56,13 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon(121997)</h1>
-    <p><a href="https://xat.me/kimy" target="_blank">K♥</a></p>
+    <p>Bog|Col</p>
     <img src="https://xatimg.com/image/3AEtdfo73W61.png" alt="boy" class="w3-image" width="992" height="1108">
   </header>
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
      <a href="https://xat.com/trade" target="_blank"><h2 class="w3-text-light-grey"><img src="https://xatimg.com/image/Bkm9swXOdBZn.png" style="width:25%"></h2></a>
+    <p><a href="https://xat.me/kimy" target="_blank">K♥</a></p>
      
     
 
