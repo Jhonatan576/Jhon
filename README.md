@@ -28,7 +28,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <i class="fa fa-home w3-xxlarge"></i>
     <p>HOME</p>
   </a>
-  <p><a href="https://xat.me/kimy" target="_blank">K♥</a></p>
+  
+  <p><a href="https://xat.me/kimy" class="w3-bar-item w3-button w3-padding-large w3-black" target="_blank">K♥</a></p>
+  
   <a href="https://xat.me/Jhon" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-user w3-xxlarge"></i>
     <p>ABOUT</p>
