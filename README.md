@@ -39,6 +39,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <i class="fa fa-envelope w3-xxlarge"></i>
     <p>CONTACT</p>
   </a>
+  <p><a href="https://xat.me/kimy" target="_blank">K♥</a></p>
 </nav>
 
 <!-- Navbar on small screens (Hidden on medium and large screens) -->
@@ -58,7 +59,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon(121997)</h1>
     <p>Bog|Col</p>
     <img src="https://xatimg.com/image/3AEtdfo73W61.png" alt="boy" class="w3-image" width="992" height="1108">
-    <p><a href="https://xat.me/kimy" target="_blank">K♥</a></p>
+    
   </header>
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
