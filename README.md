@@ -61,12 +61,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   </header>
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
-     <ul> <a href="https://xat.com/trade" target="_blank"><h2 class="w3-text-light-grey"><img src="https://xatimg.com/image/Bkm9swXOdBZn.png" style="width:25%"></h2></a> 
-     <iframe width="80" height="80" src="https://www.youtube.com/embed/7HGacIbAHVM?autoplay=0" framberoder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="80" height="80" src="https://www.youtube.com/embed/7HGacIbAHVM?autoplay=0" framberoder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="80" height="80" src="https://www.youtube.com/embed/7HGacIbAHVM?autoplay=0" framberoder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <ul>
-    </div>
+     <a href="https://xat.com/trade" target="_blank"><h2 class="w3-text-light-grey"><img src="https://xatimg.com/image/Bkm9swXOdBZn.png" style="width:25%"></h2></a>
+     
+    
 
   
   <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
