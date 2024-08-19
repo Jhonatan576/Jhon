@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>W3.CSS Template</title>
+<title>Jhon</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -14,7 +14,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 /* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
 #main {margin-left: 120px}
 /* Remove margins from "page content" on small screens */
-@media only screen and (max-width: 600px) {#main {margin-left: 0}}
+@media only screen and (max-width: 800px) {#main {margin-left: 0}}
 </style>
 </head>
 <body class="w3-black">
@@ -63,7 +63,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
-    <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon(121997)</h1>
+    <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon (121997)</h1>
     <p>Bog|Col</p>
     <img src="https://xatimg.com/image/tv7r68oayGj3.png" alt="boy" class="w3-image" width="992" height="1108">
     
