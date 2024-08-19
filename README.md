@@ -74,9 +74,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <!-- End footer -->
   </footer>
   
-<iframe width="100" height="100"
-src="https://www.youtube.com/embed/7HGacIbAHVM?rel=0&amp;autoplay=1">
-</iframe>
+
+
+<iframe width="100" height="100" src="https://www.youtube.com/embed/7HGacIbAHVM?si=wQJEXIpWtFLM43Ki&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
   </div>
   
