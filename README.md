@@ -36,15 +36,15 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   
   <a href="https://xat.me/Jhon" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-user w3-xxlarge"></i>
-    <p>ABOUT</p>
+    <b><p>ABOUT</p></b>
   </a>
   <a href="https://xat.me/Jhon" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-eye w3-xxlarge"></i>
-    <p>PHOTOS</p>
+    <b><p>PHOTOS</p></b>
   </a>
   <a href="https://forum.xat.com/profile/41787/" target="_blank" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-envelope w3-xxlarge"></i>
-    <p>CONTACT</p>
+    <b><p>CONTACT</p></b>
   </a>
   
 </nav>
@@ -64,7 +64,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon (121997)</h1>
-    <p>BOG/COL</p>
+    <b><p>BOG/COL</p></b>
     <img src="https://xatimg.com/image/mWboLKf2ntBc.png" alt="boy" class="w3-image" width="992" height="808">
     
   </header>
