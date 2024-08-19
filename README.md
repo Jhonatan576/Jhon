@@ -24,7 +24,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <!-- Avatar image in top left corner -->
   <img src="https://xatimg.com/image/0ZpNSy6ZxGYF.png" style="width:100%">
 
-<a href="https://xat.me/kimy" class="w3-bar-item w3-button w3-padding-large w3-grey" target="_blank"><p>K♥</p>
+<a href="https://xat.me/kimy" class="w3-bar-item w3-button w3-padding-large w3-dark-grey" target="_blank"><p>K♥</p>
 </a>
 
   <a href="https://xat.me/Jhon" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
