@@ -78,6 +78,8 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
   <iframe width="420" height="345" src="https://www.youtube.com/embed/7HGacIbAHVM?autoplay=1" allow='autoplay'></iframe>
 
+  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/7HGacIbAHVM?si=vdkgZxTDAAtkY8cz" title="YouTube video player"></iframe>
+
   </div>
   
     <!-- Footer -->
