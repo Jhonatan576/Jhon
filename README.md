@@ -63,9 +63,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
-    <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon (121997)</h1>
-    <img src="https://xatimg.com/image/CnR2TGu94UXf.png" style="width:10%">
-    <img src="https://xatimg.com/image/tv7r68oayGj3.png" alt="boy" class="w3-image" width="992" height="808">
+    <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon (121997)<img src="x" style="width:10%"></h1>
+    <p>BOG/COL</p>
+    <img src="https://xatimg.com/image/jLxxyqA0IGnQ.png" alt="boy" class="w3-image" width="992" height="808">
     
   </header>
   <!-- About Section -->
