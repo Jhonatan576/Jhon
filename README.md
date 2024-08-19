@@ -14,7 +14,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 /* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
 #main {margin-left: 120px}
 /* Remove margins from "page content" on small screens */
-@media only screen and (max-width: 1000px) {#main {margin-left: 0}}
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
 </style>
 </head>
 <body class="w3-black">
@@ -65,7 +65,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon (121997)</h1>
     <p>BOG/COL</p>
-    <img src="https://xatimg.com/image/tv7r68oayGj3.png" alt="boy" class="w3-image" width="992" height="1108">
+    <img src="https://xatimg.com/image/tv7r68oayGj3.png" alt="boy" class="w3-image" width="992" height="1008">
     
   </header>
   <!-- About Section -->
