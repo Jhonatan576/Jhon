@@ -15,6 +15,71 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 #main {margin-left: 120px}
 /* Remove margins from "page content" on small screens */
 @media only screen and (max-width: 600px) {#main {margin-left: 0}}
+
+
+.wrapper_gallery{
+      margin-top: 5rem;
+      width: 40rem;
+      height: 27rem;
+}
+
+.gallery_card{
+      width: 18rem;
+      height: 27rem;
+      margin: 0 1rem;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+
+.gallery_card:before{
+      width: 18rem;
+      height: 27rem;
+      background: repeating-conic-gradient(from var(--a), var(--theme) 0%, var(--theme) 5%, transparent 5%, transparent 40%, var(--theme) 50%);
+      animation: spin_photo 4s linear infinite;
+      border-radius: .6rem;
+}
+
+.gallery_card:after{
+      width: 17.6rem;
+      height: 26.6rem;
+      top: .2rem;
+      left: .2rem;
+      background: var(--bg);
+      border-radius: .6rem;
+}
+
+.gallery_card img{
+      width: 17rem;
+      height: 26rem;
+      border-radius: .6rem;
+      position: relative;
+      z-index: 2;
+      margin: .5rem;
+}
+
+.gallery_block button.slick-arrow{
+      width: 2rem;
+      height: 2rem;
+      position: absolute;
+      top: 105%;
+      color: var(--theme);
+}
+
+.gallery_block button.slick-arrow.slick-next{
+      left: calc(50% + 1rem);
+}
+
+.gallery_block button.slick-arrow.slick-prev{
+      left: calc(50% - 5rem);
+}
+
+.gallery_block .slick-dots{
+      display: none;
+}
+
+  
 </style>
 </head>
 <body class="w3-black">
@@ -68,6 +133,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon (121997)</h1>
     <b><p>BOG/COL</p></b>
     <img src="https://xatimg.com/image/mWboLKf2ntBc.png" alt="boy" class="w3-image" width="992" height="808">
+    <div class="gallery_card" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://xatimg.com/image/nzjmmj7nw4Lk.jpg"></div>
     
   </header>
   <!-- About Section -->
