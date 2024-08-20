@@ -93,7 +93,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon (121997)</h1>
     <b><p>BOG/COL</p></b>
     <img src="https://xatimg.com/image/mWboLKf2ntBc.png" alt="boy" class="w3-image" width="992" height="808">
-   <div class="user_photo__img flex"><img src="https://xatimg.com/image/sqFBILnmOH9H.png" alt="Kimy"></div>
+   <div class="user_photo,.user_photo__img"><img src="https://xatimg.com/image/sqFBILnmOH9H.png" alt="Kimy"></div>
 
     
   </header>
