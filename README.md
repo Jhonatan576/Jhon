@@ -15,6 +15,30 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 #main {margin-left: 120px}
 /* Remove margins from "page content" on small screens */
 @media only screen and (max-width: 600px) {#main {margin-left: 0}}
+
+.user_data {
+    gap: 2rem
+}
+
+.user_photo,.user_photo__img {
+    height: 19rem;
+    position: relative;
+    width: 19rem
+}
+
+.user_photo__img {
+    align-items: center;
+    justify-content: center
+}
+
+.user_photo__img:before {
+    -webkit-animation: spin_photo 4s linear infinite;
+    animation: spin_photo 4s linear infinite;
+    background: repeating-conic-gradient(from var(--a),var(--theme) 0,var(--theme) 5%,transparent 5%,transparent 40%,var(--theme) 50%);
+    border-radius: .4rem;
+    height: 100%;
+    width: 100%
+}
       
 </style>
 </head>
@@ -69,7 +93,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon (121997)</h1>
     <b><p>BOG/COL</p></b>
     <img src="https://xatimg.com/image/mWboLKf2ntBc.png" alt="boy" class="w3-image" width="992" height="808">
-   
+   <div class="user_photo__img flex"><img src="https://xatimg.com/image/sqFBILnmOH9H.png" alt="Kimy"></div>
 
     
   </header>
