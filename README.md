@@ -16,14 +16,13 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 /* Remove margins from "page content" on small screens */
 @media only screen and (max-width: 600px) {#main {margin-left: 0}}
 
-
 .wrapper_gallery{
       margin-top: 5rem;
       width: 40rem;
       height: 27rem;
 }
 
-.gallery_card{
+.h1{
       width: 18rem;
       height: 27rem;
       margin: 0 1rem;
@@ -33,7 +32,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       justify-content: center;
 }
 
-.gallery_card:before{
+.h1:before{
       width: 18rem;
       height: 27rem;
       background: repeating-conic-gradient(from var(--a), var(--theme) 0%, var(--theme) 5%, transparent 5%, transparent 40%, var(--theme) 50%);
@@ -41,7 +40,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       border-radius: .6rem;
 }
 
-.gallery_card:after{
+.h1:after{
       width: 17.6rem;
       height: 26.6rem;
       top: .2rem;
@@ -50,7 +49,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       border-radius: .6rem;
 }
 
-.gallery_card img{
+.h1 img{
       width: 17rem;
       height: 26rem;
       border-radius: .6rem;
@@ -59,7 +58,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       margin: .5rem;
 }
 
-.gallery_block button.slick-arrow{
+.h1_block button.slick-arrow{
       width: 2rem;
       height: 2rem;
       position: absolute;
@@ -71,15 +70,14 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       left: calc(50% + 1rem);
 }
 
-.gallery_block button.slick-arrow.slick-prev{
+.h1_block button.slick-arrow.slick-prev{
       left: calc(50% - 5rem);
 }
 
-.gallery_block .slick-dots{
+.h1_block .slick-dots{
       display: none;
 }
 
-  
 </style>
 </head>
 <body class="w3-black">
@@ -133,12 +131,14 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon (121997)</h1>
     <b><p>BOG/COL</p></b>
     <img src="https://xatimg.com/image/mWboLKf2ntBc.png" alt="boy" class="w3-image" width="992" height="808">
-    <div class="gallery_card" tabindex="-1" style="width: 100%; display: inline-block;"><img src="https://xatimg.com/image/nzjmmj7nw4Lk.jpg"></div>
+   <div class="gallery_card" tabindex="-1" style="width: 100%; display: inline-block;"><h1><img src="https://xatimg.com/image/nzjmmj7nw4Lk.jpg"></h1></div>
+
     
   </header>
   <!-- About Section -->
      <a href="https://xat.com/trade" target="_blank"><h2 class="w3-text-light-grey"><img src="https://xatimg.com/image/Bkm9swXOdBZn.png" style="width:25%"></h2></a>
-    
+
+
      
     
 
