@@ -47,7 +47,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <b><p>CONTACT</p></b>
   </a>
 
-  <a href="https://xat.me/kimy" class="w3-bar-item w3-button w3-padding-large w3-dark-grey" target="_blank"><b><p>♥</p></b>
+  <a href="https://xat.me/kimy" class="w3-bar-item w3-button w3-padding-large w3-dark-grey" target="_blank"><b><p>♥K</p></b>
 </a>
   
 </nav>
