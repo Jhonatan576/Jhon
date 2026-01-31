@@ -1,108 +1,107 @@
-<html lang="en">
-
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Arth</title>
-    <link rel="stylesheet" href="./style.css">
+<title>Jhon</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+/* Set the width of the sidebar to 120px */
+.w3-sidebar {width: 120px;background: #222;}
+/* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+#main {margin-left: 120px}
+/* Remove margins from "page content" on small screens */
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
 
+</style>
 </head>
+<body class="w3-black">
 
-<body>
-    <!-- partial:index.partial.html -->
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    </br>
-    <div id="u1">
-        <div class="u2"></div>
-        <div class="u3"></div>
-        <div class="u6"></div>
-        <div class="u5"><a href="#"><span>Hechizera </span></a>♡</div>
-        <div id="uEs">
-            <div class="u10"><a href="#"><span>Hechizero </span></a>♡</div>
-        </div>
-        <div id="uEs20">
-            <div class="u10"><a href="#"><span>Mariam</span></a>♡</div>
-        </div>
-        <div class="u4">
-            𝐅𝐀𝐑𝐑𝐔𝐂𝐀 
-            </br>(𝟏𝟓𝟓𝟒𝟓𝟑𝟑𝟒𝟑𝟐)</br>
-            </br>
-            </br>•𝐋𝐈𝐁𝐑𝐀</br>•𝐒𝐏𝐀𝐈𝐍 </br>• </br>• 
-        </div>
-        <h1>𝐊𝐘𝐌𝐀</br>♡</h1>
-        <div class="u7">
-            <div class="utris">
-                <img align="center" width="192" height="100" src="https://img.wattpad.com/cfe1142acd921b69fd5a766d59c78ce3016e105f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f436934467259724559715f646e513d3d2d313235373437383538362e313734613136363461366364663332373533303937363737353131392e676966" /></br>
-                </br>
-                </br>𝐋𝐚 𝐟𝐥𝐚𝐦𝐞𝐧𝐜𝐮𝐫𝐚 𝐧𝐨 𝐭𝐢𝐞𝐧𝐞 𝐜𝐮𝐫𝐚! </br> 
-                </br><img align="center" width="192" height="1" src="https://i.pinimg.com/564x/71/85/05/718505c283f742f95098f402f0ae5d07.jpg" /></br>
-                <div align="right">
-                    𝐌𝐢 𝐞𝐪𝐮𝐢𝐩𝐨 𝐞𝐬 𝐲 𝐬𝐢𝐞𝐦𝐩𝐫𝐞 𝐬𝐞𝐫á 𝐞𝐥 𝐑𝐞𝐚𝐥 𝐌𝐚𝐝𝐫𝐢𝐝
-                    <br>
-                    <br>
-                </div>
-            </div>
-        </div>
-        </br>
-        </br>
-        </br>
-        <script src="//cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script>
-        <script src="//glenthemes.github.io/-music-/glenplayer01.js"></script>
-        <link href="//glenthemes.github.io/-music-/glenplayer01.css" rel="stylesheet">
-        <style element="glenplayer01">
-             :root {
-                --MusicPlayer-Distance-From-Bottom: 30px;
-                --MusicPlayer-Frame-Thickness: 12px;
-                --MusicPlayer-Frame-Color: #ea899a;
-                --MusicPlayer-Frame-Transparency: 40%;
-                --MusicPlayer-Text-Background: #000000;
-                --MusicPlayer-Text-Padding: 12px;
-                --MusicPlayer-Text-Align: right;
-                --MusicPlayer-Text-TOP-Size: 10px;
-                --MusicPlayer-Text-TOP-Color: #ea899a;
-                --MusicPlayer-Text-BOTTOM-Size: 10px;
-                --MusicPlayer-Text-BOTTOM-Color: #ea899a;
-                --MusicPlayer-Circle-Size: 50px;
-                --MusicPlayer-Circle-Background: #000000;
-                --MusicPlayer-PlayButton-Size: 10px;
-                --MusicPlayer-PlayButton-Color: #ea899a;
-                --MusicPlayer-Bar-Thickness: 2px;
-                --MusicPlayer-Bar-Spacing: 2px;
-                --MusicPlayer-Bar-Color:#ea899a#ea899a ;
-                --MusicPlayer-SlideIn-Speed: 0.69s;
-                --MusicPlayer-SlideOut-Speed: 1s;
-            }
-        </style>
-        <div glenplayer01="" style="margin-left: -86.4062px; visibility: visible; opacity: 1;">
-            <div class="fryingpan"></div>
-            <div class="cereal">
-                <div class="gouache">
-                    <div class="musictext">
-                        <div top-text=""> Sía</div>
-                        <div bottom-text="">Unstoppable </div>
-                    </div>
-                </div>
-                <div class="circ">
-                    <div class="macaroni"></div>
-                    <div class="cheese">
-                      <!-- <div class="bartender">
-                        <div class="vodka"></div>
-                        <div class="vodka"></div>
-                        <div class="vodka"></div>
-                        <div class="vodka"></div>
-                        <div class="vodka"></div>
-                    </div>-->
-                    </div>
-                </div><audio id="music-id" src="assets/nymb.mp3"></audio>
-            </div>
-        </div>
-        <!-- partial -->
+<!-- Icon Bar (Sidebar - hidden on small screens) -->
+<nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
+  <!-- Avatar image in top left corner -->
+  <img src="https://xatimg.com/image/MjeWd1SYnYh9.png" style="width:100%">
+
+
+
+  <a href="https://xat.me/Jhon" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-home w3-xxlarge"></i>
+    <b><p>HOME</p></b>
+  </a>
+ 
+
+  
+  <a href="https://xat.me/Jhon" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-user w3-xxlarge"></i>
+    <b><p>ABOUT</p></b>
+  </a>
+  <a href="https://xat.me/Jhon" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-eye w3-xxlarge"></i>
+    <b><p>PHOTOS</p></b>
+  </a>
+  <a href="https://forum.xat.com/profile/41787/" target="_blank" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-envelope w3-xxlarge"></i>
+    <b><p>CONTACT</p></b>
+  </a>
+
+
+  
+</nav>
+
+<!-- Navbar on small screens (Hidden on medium and large screens) -->
+<div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
+  <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
+    <a href="https://xat.me/Jhon" class="w3-bar-item w3-button" style="width:25% !important">HOME</a>
+    <a href="https://xat.me/Jhon" class="w3-bar-item w3-button" style="width:25% !important">ABOUT</a>
+    <a href="https://xat.me/Jhon" class="w3-bar-item w3-button" style="width:25% !important">PHOTOS</a>
+    <a href="https://forum.xat.com/profile/41787/" class="w3-bar-item w3-button" style="width:25% !important">CONTACT</a>
+  </div>
+</div>
+
+<!-- Page Content -->
+<div class="w3-padding-large" id="main">
+  <!-- Header/Home -->
+  <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
+    <h1 class="w3-jumbo"><span class="w3-hide-small"></span>Jhon (121997)</h1>
+    <b><p>BOG/COL</p></b>
+    <img src="https://xatimg.com/image/mWboLKf2ntBc.png" alt="boy" class="w3-image" width="992" height="808">
+  
+
+    
+  </header>
+  <!-- About Section -->
+     <a href="https://xat.com/trade" target="_blank"><h2 class="w3-text-light-grey"><img src="https://xatimg.com/image/Bkm9swXOdBZn.png" style="width:25%"></h2></a>
+
+
+     
+    
+
+  
+  <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+    <p class="w3-medium">Powered by <a href="https://xat.me/Jhon" target="_blank" class="w3-hover-text-green">Jhon</a></p>
+  <!-- End footer -->
+  </footer>
+  
+
+</div>
+
+
+
+  
+    <!-- Footer -->
+
+<!-- END PAGE CONTENT -->
+
 
 </body>
-
 </html>
+
